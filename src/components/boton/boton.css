@@ -1,0 +1,17 @@
+.btn{
+    background-color: #6278F7;
+    color: white;
+    padding: 24px 32px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    min-width: 167px;
+    min-height: 80px;
+    border: none;
+}
+
+
+.btn:hover{
+    color: #95FFD4;
+}
